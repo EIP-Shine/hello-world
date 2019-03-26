@@ -1,2 +1,2 @@
 # hello-world
-This is the branch of the program.  
+This is a branch of the program.  
